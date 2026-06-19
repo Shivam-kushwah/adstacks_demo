@@ -3,8 +3,7 @@
 A responsive admin dashboard built with Flutter, recreating the provided Adstacks
 design and running on both mobile and web from a single codebase.
 
-> Built as the solution to the **Adstacks Media — Flutter Developer (App & Web)** test:
-> *"We have shared an image with you; try to design this with the help of Flutter. Try to create the dashboard for office use."*
+> Built as the solution to the **Adstacks Media — Flutter Developer (App & Web)** test
 
 ---
 
