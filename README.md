@@ -30,7 +30,7 @@ design and running on both mobile and web from a single codebase.
 
 ## Getting started
 
-Requires Flutter **3.13.0 or newer** (Dart 3.1+).
+Requires Flutter >=3.2.0 <4.0.0.
 
 ```bash
 # 1. Clone
